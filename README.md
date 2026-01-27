@@ -1,4 +1,8 @@
-# awesomeport 索引
+# awesomeport 好东西传送门
+
+本项目传承自 [好东西传送门](https://github.com/memect/hao)（2014年创立），致力于发现和分享优质技术工具与知识。原项目通过[微博@好东西传送门](https://weibo.com/haoawesome)和微信公众号为技术社区提供精选内容，帮助用户快速解决问题、获取专业知识。
+
+awesomeport 延续这一精神，持续推荐实用的开发工具、命令行利器和技术方案。
 
 ## 文章
 
