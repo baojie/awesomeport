@@ -6,6 +6,7 @@ awesomeport 延续这一精神，持续推荐实用的开发工具、命令行�
 
 ## 文章
 
+- [2026-01-27] GitHub SSH 被 systemd 劫持诊断复盘 - [2026-01-27-github-ssh-systemd-hijack.md](2026-01-27-github-ssh-systemd-hijack.md)
 - [2026-01-26] AI IDE 安装指南一览 - [2026-01-26-AI IDE安装指南一览.md](2026-01-26-AI%20IDE安装指南一览.md)
 - [2026-01-26] Recoll 全文搜索工具指南 - [2026-01-26-recoll-guide.md](2026-01-26-recoll-guide.md)
 - [2026-01-25] fzf 命令行模糊搜索工具 - [2026-01-25-fzf.md](2026-01-25-fzf.md)
