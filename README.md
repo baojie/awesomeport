@@ -6,6 +6,7 @@ awesomeport 延续这一精神，持续推荐实用的开发工具、命令行�
 
 ## 文章
 
+- [2026-02-06] 告别 df：现代磁盘空间查看工具 - [2026-02-06-df-alternative.md](2026-02-06-df-alternative.md)
 - [2026-01-29] Wey - Wayland 环境下的 x2x 替代品 - [2026-01-29-wey-wayland-kvm.md](2026-01-29-wey-wayland-kvm.md)
 - [2026-01-28] x2x 一套键鼠控制多台电脑 - [2026-01-28-x2x.md](2026-01-28-x2x.md)
 - [2026-01-27] GitHub SSH 被 systemd 劫持诊断复盘 - [2026-01-27-github-ssh-systemd-hijack.md](2026-01-27-github-ssh-systemd-hijack.md)
